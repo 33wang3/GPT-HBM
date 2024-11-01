@@ -1,0 +1,28 @@
+Does this text explicitly or implicitly discuss the severity of HPV-related health conditions (such as cervical cancer, throat cancer, genital warts, etc.)? Look for language that describes the serious consequences or life-threatening nature of HPV, or mentions long-term health outcomes if untreated. If the text refers to severe outcomes of HPV infection, output the final answer as [[YES]]. If the text does not discuss the seriousness or impact of HPV-related health issues, output the final answer as [[NO]].
+
+Examples for Severity in HBM (HPV Vaccine Narrative):
+
+Example 1: [[YES]]
+
+Text: “HPV is the leading cause of cervical cancer, which can be fatal if not detected early. Without the vaccine, millions of women are at risk of developing this life-threatening disease.”
+Explanation: This text clearly mentions the severity of HPV, highlighting its role in causing fatal cervical cancer, which points to serious, life-threatening outcomes.
+
+Example 2: [[YES]]
+
+Text: “Many people think HPV is just a minor infection, but it can cause cancer in both men and women, including cancers of the throat, anus, and penis, which require aggressive treatments like surgery and radiation.”
+Explanation: The text emphasizes the serious health consequences of HPV by pointing out its link to multiple forms of cancer and the aggressive treatments required, conveying the severity of the disease.
+
+Example 3: [[NO]]
+
+Text: “The HPV vaccine is recommended for teens and young adults to protect against the virus. Talk to your doctor about getting vaccinated today.”
+Explanation: This text does not mention the seriousness or severity of HPV infection or its outcomes; it is more informational and lacks a focus on the consequences of the disease.
+
+Example 4: [[YES]]
+
+Text: “Without vaccination, HPV can lead to painful genital warts and increase the risk of cancers later in life. These conditions can drastically affect quality of life and require invasive medical interventions.”
+Explanation: The mention of “painful genital warts” and the risk of cancer, as well as the reference to “invasive medical interventions,” emphasizes the severity of HPV-related conditions.
+
+Example 5: [[NO]]
+
+Text: “HPV is a common virus that can be prevented through vaccination. Learn more about how to protect yourself from infection.”
+Explanation: This text does not reference the severity of the health conditions related to HPV infection. It is focused on prevention without mentioning serious consequences.
