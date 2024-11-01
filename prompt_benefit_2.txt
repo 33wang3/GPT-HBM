@@ -1,0 +1,28 @@
+“Does this text directly and indirectly discuss the benefits of getting the HPV vaccine? Look for language that highlights the positive outcomes of vaccination, such as protection against cancer, genital warts, or overall health improvement. If the text describes the advantages of receiving the vaccine or how it helps reduce health risks, output the final answer as [[YES]]. If the text does not discuss the benefits of vaccination or mentions only general information without specifying advantages, output the final answer as [[NO]]. Provide a brief explanation of your conclusion.”
+
+Examples for Benefits in HBM (HPV Vaccine Narrative):
+
+Example 1: [[YES]]
+
+Text: “The HPV vaccine protects against multiple types of cancer, including cervical, throat, and anal cancers, making it one of the most important vaccines for young adults.”
+Explanation: This text clearly mentions the benefits of the HPV vaccine by specifying its protection against multiple types of cancer, highlighting the advantage of vaccination.
+
+Example 2: [[YES]]
+
+Text: “By getting vaccinated, you’re reducing your risk of developing painful genital warts and other long-term health issues caused by HPV.”
+Explanation: The statement highlights specific benefits of the vaccine, such as reducing the risk of genital warts and long-term health issues, which clearly reflects positive outcomes.
+
+Example 3: [[NO]]
+
+Text: “Talk to your healthcare provider to see if the HPV vaccine is right for you. It is commonly recommended for teens and young adults.”
+Explanation: This text does not discuss the benefits of the vaccine, only mentioning general information without specifying any advantages or positive outcomes.
+
+Example 4: [[YES]]
+
+Text: “Vaccinating early gives you lifelong protection from HPV-related diseases, including the cancers that may arise years later, ensuring a healthier future.”
+Explanation: This text focuses on the benefit of “lifelong protection” and preventing future cancers, clearly discussing the advantages of getting vaccinated early.
+
+Example 5: [[NO]]
+
+Text: “The HPV vaccine is recommended for young adults between the ages of 9 and 26. Please contact your doctor for more information.”
+Explanation: The text provides general recommendations without discussing the benefits or positive effects of the vaccine, making it not relevant to the benefit aspect of the HBM.
